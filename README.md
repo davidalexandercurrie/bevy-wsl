@@ -5,6 +5,6 @@ A Bevy project template with a WSL-compatible Makefile for Windows cross-compila
 ## Usage
 
 ```bash
-cargo generate --git https://github.com/YOUR_USERNAME/bevy-wsl.git --name my-cool-game
+cargo generate --git https://github.com/davidalexandercurrie/bevy-wsl.git --name my-cool-game
 make run
 ```
